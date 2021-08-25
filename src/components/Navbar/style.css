@@ -1,0 +1,23 @@
+nav.navbar.navbar-default {
+  margin-bottom: 0;
+}
+
+.logo {
+  /* margin: 10px; */
+  max-height: 50px;
+  /* transform: translate(30%, 0%); */
+}
+
+.navbar-brand {
+  margin-right: 50px;
+}
+
+@media (min-width: 992px){
+  .navbar-expand-lg.navbar-expand-lg {
+    flex-wrap: nowrap;
+    justify-content: space-between;
+  }
+  .navbar-expand-lg.navbar-expand-lg .navbar-collapse{
+    max-width: fit-content;
+  }
+}
