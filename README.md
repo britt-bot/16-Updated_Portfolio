@@ -20,8 +20,6 @@ Open the desired web browser and go to the page url for either the Repo or the D
 
 [Homework 16 - Updated Portfolio GitHub Repo](https://github.com/britt-bot/16-Updated_Portfolio)
 
-[Homework 16 - Updated Portfolio Heroku]()
-
 
 ## Usage 
 
