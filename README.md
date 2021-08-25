@@ -1,2 +1,71 @@
 # 16-Updated_Portfolio
-Homework 16 - Updated Portfolio
+## Description 
+
+This is my updated portfolio to help showcase my skills and projects using Bootstrap and other latest technologies. 
+
+
+## Table of Contents 
+
+This table of contents is to make it easy for users to find what they need.
+
+* [Installation](#installation)
+* [Usage](#usage)
+* [Credits](#credits)
+* [License](#license)
+
+
+## Installation
+
+Open the desired web browser and go to the page url for either the Repo or the Deployed project.
+
+[Homework 16 - Updated Portfolio GitHub Repo](https://github.com/britt-bot/16-Updated_Portfolio)
+
+[Homework 16 - Updated Portfolio Heroku]()
+
+
+## Usage 
+
+This is used to show potential clients and employers my skills, by demonstrating them in both, the front and back-end design of this page. This page is also showcasing the previous projects I have worked on, which show various other skill sets gained from both solo and team work environments. 
+
+
+## Credits
+
+Third Party Assets:
+
+[NPM](https://www.npmjs.com/)
+
+[React](https://reactjs.org/)
+
+[Create React App](https://github.com/facebook/create-react-app)
+
+[FreeCodeCamp - Build React Portfolio](https://www.freecodecamp.org/news/build-portfolio-website-react/)
+
+[Tailwind CSS](https://tailwindcss.com/)
+
+[Bootstrap CSS](https://getbootstrap.com/)
+
+
+## License
+
+MIT License
+
+Copyright (c) 2021 Britt Bot
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
