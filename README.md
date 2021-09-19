@@ -1,7 +1,20 @@
 # 16-Updated_Portfolio
 ## Description 
 
-This is my updated portfolio to help showcase my skills and projects using Bootstrap and other latest technologies. 
+A portfolio is a gathering of completed and in progress works, that are used to showcase a skilled person's end results and/or work styles. This is part of the evolution of my skills through the progression shown in my portfolio.
+
+I will continue to work and improve this page as my journey continues. This version, Homework 16 - Updated Portfolio, completed 07/31/2021. 
+
+
+Here are the links to the previous versions of my Portfolio:
+
+[Homework 02 - Portfolio Repo](https://github.com/britt-bot/02-Portfolio)
+
+[Homework 08 - Updated Portfolio Repo](https://github.com/britt-bot/08-updated_portfolio)
+
+Here is the link to the updated version of my Portfolio:
+
+[Homework 20 - REACT Portfolio Repo]()
 
 
 ## Table of Contents 
