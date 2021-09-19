@@ -9,13 +9,13 @@ I will continue to work and improve this page as my journey continues. This vers
 
 Here are the links to the previous versions of my Portfolio:
 
-[Homework 02 - Portfolio Repo](https://github.com/britt-bot/02-Portfolio)
+[Portfolio Repo](https://github.com/britt-bot/02-Portfolio)
 
-[Homework 08 - Updated Portfolio Repo](https://github.com/britt-bot/08-updated_portfolio)
+[Updated Portfolio Repo](https://github.com/britt-bot/08-updated_portfolio)
 
 Here is the link to the updated version of my Portfolio:
 
-[Homework 20 - REACT Portfolio Repo]()
+[REACT Portfolio Repo]()
 
 
 ## Table of Contents 
@@ -32,7 +32,7 @@ This table of contents is to make it easy for users to find what they need.
 
 Open the desired web browser and go to the page url for either the Repo or the Deployed project.
 
-[Homework 16 - Updated Portfolio GitHub Repo](https://github.com/britt-bot/16-Updated_Portfolio)
+[Updated Portfolio GitHub Repo](https://github.com/britt-bot/16-Updated_Portfolio)
 
 
 ## Usage 
