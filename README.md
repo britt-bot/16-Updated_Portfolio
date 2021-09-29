@@ -1,5 +1,5 @@
 ![MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-# 16-Updated_Portfolio
+# Portfolio 3... The Comeback
 ## Description 
 
 A portfolio is a gathering of completed and in progress works, that are used to showcase a skilled person's end results and/or work styles. This is part of the evolution of my skills through the progression shown in my portfolio.
@@ -9,13 +9,15 @@ I will continue to work and improve this page as my journey continues. This vers
 
 Here are the links to the previous versions of my Portfolio:
 
-[Portfolio Repo](https://github.com/britt-bot/02-Portfolio)
+[Prework-Portfolio Repo](https://github.com/britt-bot/Prework-Portfolio)
 
-[Updated Portfolio Repo](https://github.com/britt-bot/08-updated_portfolio)
+[Portfolio Repo](https://github.com/britt-bot/Portfolio)
+
+[Portfolio 2 Repo](https://github.com/britt-bot/08-updated_portfolio)
 
 Here is the link to the updated version of my Portfolio:
 
-[REACT Portfolio Repo]()
+[REACT Portfolio Repo](https://github.com/britt-bot/20-React_Portfolio)
 
 
 ## Table of Contents 
