@@ -34,7 +34,7 @@ This table of contents is to make it easy for users to find what they need.
 
 Open the desired web browser and go to the page url for either the Repo or the Deployed project.
 
-[Updated Portfolio GitHub Repo](https://github.com/britt-bot/16-Updated_Portfolio)
+[Updated Portfolio Repo](https://github.com/britt-bot/16-Updated_Portfolio)
 
 
 ## Usage 
