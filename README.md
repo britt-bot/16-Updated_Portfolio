@@ -13,11 +13,11 @@ Here are the links to the previous versions of my Portfolio:
 
 [Portfolio Repo](https://github.com/britt-bot/Portfolio)
 
-[Portfolio 2 Repo](https://github.com/britt-bot/08-updated_portfolio)
+[Portfolio 2 Repo](https://github.com/britt-bot/Portfolio_2)
 
 Here is the link to the updated version of my Portfolio:
 
-[REACT Portfolio Repo](https://github.com/britt-bot/20-React_Portfolio)
+[REACT Portfolio Repo](https://github.com/britt-bot/React_Portfolio)
 
 
 ## Table of Contents 
