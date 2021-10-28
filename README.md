@@ -41,6 +41,8 @@ Open the desired web browser and go to the page url for either the Repo or the D
 
 This is used to show potential clients and employers my skills, by demonstrating them in both, the front and back-end design of this page. This page is also showcasing the previous projects I have worked on, which show various other skill sets gained from both solo and team work environments. 
 
+![screenshot](https://user-images.githubusercontent.com/77466708/139349340-06d9f38c-ee09-4958-a804-ed74c11c4662.png)
+
 
 ## Credits
 
